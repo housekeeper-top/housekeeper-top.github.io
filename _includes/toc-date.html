@@ -1,0 +1,45 @@
+<div class="book-summary">
+    <nav role="navigation">
+        <div id="book-search-input" role="search">
+            <input type="text" placeholder="Type to search" />
+        </div>
+        <div id="book-search-input-link" role="search">
+            <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
+        </div>
+        <ul class="summary">
+            {% if page.url == "/index.html" or page.url == "/" %}
+            <li class="chapter active" data-level="1.1" data-path="{{site.baseurl}}">
+            {% else %}
+            <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
+            {% endif %}
+                <a href="{{site.baseurl}}/">
+                    {{ site.title | escape }}
+                </a>
+            </li>
+
+            <li class="divider"></li>
+
+            {% for collection in site.ordered_collections %}
+                {% assign items = site[collection] | sort: 'date' | reverse %}
+                
+                {% if forloop.first != true %}
+                    <li class="divider"></li>
+                {% endif %}
+                
+                {% for item in items %}
+                    {% unless item.hidden %}
+                        {% if page.url == item.url %}
+                        <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{item.url}}">
+                        {% else %}
+                        <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{item.url}}">
+                        {% endif %}
+                            <a href="{{site.baseurl}}{{item.url}}">
+                                {{ item.title | escape }}
+                            </a>
+                        </li>
+                    {% endunless %}
+                {% endfor %}
+            {% endfor %}
+        </ul>
+    </nav>
+</div>
