@@ -70,6 +70,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     hidden_show: true
+  demoba:
+    output: true
+    permalink: /:collection/:path/
+    hidden_show: true
 
 ordered_collections:
   # - posts
@@ -78,6 +82,7 @@ ordered_collections:
   - contact
   - gomate
   - calculatormagic
+  - demoba
 
 page_width: 800px
 
