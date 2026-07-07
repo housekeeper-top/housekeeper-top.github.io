@@ -79,10 +79,9 @@ ordered_collections:
   # - posts
   - thindairy
   - mtecalculator
-  - contact
   - gomate
-  - calculatormagic
   - demoba
+  - contact
 
 page_width: 800px
 
