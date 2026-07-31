@@ -3,6 +3,8 @@ title: User Terms
 hidden: true
 ---
 
+**English** · [中文](../zh/)
+
 **Terms & Conditions**
 
 These terms and conditions apply to the DeMOBA app (hereinafter referred to as "Application") for mobile devices, which was developed by Jane R (hereinafter referred to as "Service Provider").

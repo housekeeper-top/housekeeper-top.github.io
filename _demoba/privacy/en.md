@@ -3,6 +3,8 @@ title: Privacy Policy
 hidden: true
 ---
 
+**English** · [中文](../zh/)
+
 **Privacy Policy**
 
 This privacy policy is applicable to the DeMOBA app (hereinafter referred to as "Application") for mobile devices, which was developed by Jane R (hereinafter referred to as "Service Provider"). This service is provided "AS IS".

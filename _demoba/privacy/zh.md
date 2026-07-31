@@ -3,6 +3,8 @@ title: Privacy Policy
 hidden: true
 ---
 
+[English](../en/) · **中文**
+
 **隐私政策**
 
 本隐私政策适用于 Jane R（以下简称 "服务提供商"）为移动设备开发的 "DeMOBA - 游戏戒断陪伴"（以下简称 "应用程序"）。本服务 "按原样" 提供。
