@@ -28,5 +28,7 @@ Hacker Camera is a camera with a live telemetry head-up display. A stream of gre
 
 Nothing is tracked, and nothing leaves your device except the coordinates needed to fetch weather when you turn that field on.
 
+**Free and Pro.** The app is free. Without a subscription the data stream is fixed to three readouts — app tag, GPS coordinates and clock. Hacker Camera Pro unlocks the full field list, the per-group switches and the burn-in layout, as a monthly or yearly auto-renewing subscription. Prices are shown in the app in your local currency before you confirm, and the subscription works on every device signed in with your Apple Account. If it lapses, the app keeps working as the free version and your selection is kept for when you come back.
+
 * [Privacy Policy](/hackercamera/privacy/en/) · [隐私政策](/hackercamera/privacy/zh/)
 * [User Terms](/hackercamera/user_terms/en/) · [用户协议](/hackercamera/user_terms/zh/)

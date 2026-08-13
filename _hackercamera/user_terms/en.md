@@ -6,7 +6,7 @@ hidden: true
 
 Last updated: 12 August 2026
 
-These terms and conditions apply to the Hacker Camera app (hereby referred to as "Application") for mobile devices, created by Jane R. (hereby referred to as "Service Provider") and provided as a free service.
+These terms and conditions apply to the Hacker Camera app (hereby referred to as "Application") for mobile devices, created by Jane R. (hereby referred to as "Service Provider"). The Application is free to download and use, and offers an optional paid subscription described below.
 
 By downloading or using the Application you agree to these terms. Please read them before using the Application.
 
@@ -39,6 +39,18 @@ The Service Provider aims to keep the Application useful and efficient, and rese
 **Your device**
 
 It is your responsibility to keep your device secure and updated. The Service Provider advises against jailbreaking your device, which removes protections imposed by the operating system, may expose the device to malware, and may cause the Application to malfunction or not work at all.
+
+**Subscription**
+
+The Application is free to use. Without a subscription the viewfinder data stream is fixed to three readouts — the app tag, GPS coordinates and the clock — and the selection cannot be changed.
+
+Hacker Camera Pro is an optional auto-renewing subscription that unlocks the full field list, the per-group switches and the burn-in layout controls. It is offered as a monthly plan and a yearly plan. Prices are set per storefront by Apple's price matrix and are always shown in the app before you confirm; the App Store converts them into your local currency.
+
+Payment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically for the same period unless it is cancelled at least 24 hours before the end of the current period, and your account is charged for renewal within 24 hours before the period ends. You can manage or cancel the subscription in Settings › Apple Account › Subscriptions on your device; deleting the Application does not cancel it.
+
+The subscription is tied to your Apple Account, so it is available on every device signed in with that account. Use "Restore Purchases" on the subscription page to restore it on a new device. Refunds are handled by Apple under the App Store terms of sale; the Service Provider cannot issue them directly.
+
+If a subscription expires or is refunded, the Application keeps working as the free version and the data stream returns to the three fixed readouts. Your saved selection is retained and applies again if you resubscribe.
 
 **Third-party services**
 
