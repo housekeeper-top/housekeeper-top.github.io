@@ -50,6 +50,10 @@ exclude:
   - _drafts
 
 collections:
+  pixelchain:
+    output: true
+    permalink: /:collection/:path/
+    hidden_show: true
   thindairy:
     output: true
     permalink: /:collection/:path/
@@ -81,6 +85,7 @@ collections:
 
 ordered_collections:
   # - posts
+  - pixelchain
   - thindairy
   - mtecalculator
   - gomate
