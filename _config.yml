@@ -50,6 +50,10 @@ exclude:
   - _drafts
 
 collections:
+  sitby:
+    output: true
+    permalink: /:collection/:path/
+    hidden_show: true
   pixelchain:
     output: true
     permalink: /:collection/:path/
@@ -85,6 +89,7 @@ collections:
 
 ordered_collections:
   # - posts
+  - sitby
   - pixelchain
   - thindairy
   - mtecalculator
