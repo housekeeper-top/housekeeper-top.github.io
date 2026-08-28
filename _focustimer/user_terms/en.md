@@ -3,11 +3,11 @@ title: User Terms
 hidden: true
 ---
 
-Last updated: with 专注番茄钟 1.0.0
+Last updated: with Focus Timer - Pomodoro Study 1.0.0
 
 ## Acceptance
 
-By downloading, installing, or using 专注番茄钟 (the "App") you confirm that you have read, understood, and agree to these User Terms. If you do not agree with any part of them, do not use the App.
+By downloading, installing, or using Focus Timer - Pomodoro Study (the "App") you confirm that you have read, understood, and agree to these User Terms. If you do not agree with any part of them, do not use the App.
 
 ## License Grant
 

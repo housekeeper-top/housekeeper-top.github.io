@@ -3,9 +3,9 @@ title: Privacy Policy
 hidden: true
 ---
 
-Last updated: with 专注番茄钟 1.0.0
+Last updated: with Focus Timer - Pomodoro Study 1.0.0
 
-This Privacy Policy explains how 专注番茄钟 (the "App") handles your information. The App is provided as is.
+This Privacy Policy explains how Focus Timer - Pomodoro Study (the "App") handles your information. The App is provided as is.
 
 ## Summary
 

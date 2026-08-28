@@ -1,28 +1,28 @@
 ---
-title: 专注番茄钟
+title: Focus Timer - Pomodoro Study
 layout: post
 ---
 
-# 把注意力留在当下的一件事上
+# Keep your attention on one thing at a time
 
-专注番茄钟用番茄工作法，把一段时间圈出来，只留给一件事。打开就能开始，不用注册账号，也不需要联网。它不替你安排人生，只负责在你决定专注的这段时间里，让你清楚自己在做什么、还剩多久、这一天里被打断过几次。
+Focus Timer - Pomodoro Study uses the Pomodoro technique to fence off a stretch of time for exactly one thing. You open it and start — no account, no network. It won't organize your life for you; it just keeps track of what you're working on, how much time is left, and how often you got pulled away today.
 
-## 时长按你的节奏定
+## Set the lengths that fit you
 
-标准的 25 分钟不合适就改：专注时长、短休息、长休息、以及几轮之后进入长休息，都能在设置里调。计时页还放了 15/25/45/60 分钟的快捷档，未开始时点一下就切换（计时跑起来之后不能切，免得手滑清掉正在进行的一轮）。一轮结束后是自动进入下一阶段，还是停下来等你点一下，也由你决定。
+If 25 minutes isn't right for you, change it. Focus length, short break, long break, and how many rounds come before a long break are all in Settings. The timer screen also has 15/25/45/60-minute shortcuts you can tap while the timer is stopped — not while it's running, so you can't wipe out a session by accident. When a round ends, you decide whether the next phase starts on its own or waits for a tap.
 
-## 一次只对准一件事
+## One task at a time
 
-开始计时前可以从任务列表里挑一个任务，这一轮的时间就记在它头上；每完成一个专注番茄，这个任务的已完成番茄数加一。也可以什么都不选直接开始，记录会归到「无任务」。任务能写备注、估一个预计番茄数、标上颜色，勾选完成后会挪到「已完成」那一组，列表支持拖动排序和左滑删除。你不需要先把待办整理干净，才敢按下开始。
+Before you start, you can pick a task from the list, and that session is recorded against it; each completed focus session adds one to that task's pomodoro count. You can also just start without picking anything — the record goes to "No task". Tasks can carry a note, an estimate in pomodoros, and a color; checking one off moves it to the Completed group, and the list supports drag-to-reorder and swipe-to-delete. You don't have to tidy up your whole to-do list before you're allowed to begin.
 
-## 锁屏、切走，回来时间还是对的
+## Lock the screen — the time stays right
 
-剩余时间不是靠前台那个圆环一秒一秒数出来的，而是按阶段开始的时间戳换算的。所以你切到别的 App、把手机锁上，或者系统把它清理掉，重新打开时进度依然正确。阶段结束的那一刻会有一条本地通知提醒你——通知在这台设备上排期，不经过任何服务器；通知权限也不在刚打开 App 时就弹，等你第一次按下「开始」才问一次。结束时还会响一声系统自带的提示音并震动一下，两者可以分别关掉；不想让屏幕暗下去，也有一个常亮开关。
+Time left isn't counted by the ring in the foreground; it's derived from the timestamp when the phase started. Switch to another app, lock the phone, or let the system terminate it — the progress is still correct when you come back. A local notification fires when the phase ends — scheduled on the device, never through a server. The notification permission isn't requested at launch either; it's asked once, the first time you press Start. At the end you get one of the system alert sounds and a short vibration — both can be switched off — and there's an option to keep the screen awake.
 
-## 专注和分心都记下来
+## Focus and interruptions both get logged
 
-运行中按重置或退出当前番茄会先弹确认，确认之后这一轮记为中断：它不给任务加番茄数，但会计入统计里的中断次数。统计页可以按今日和本周切换，看专注总时长、完成番茄数、中断次数，配今日按小时、本周按天的柱状图，还有一份按任务排的时长排行；分天统计按你所在时区的自然日划分，不会把晚上的番茄算到前一天。你也可以定一个每日目标番茄数，计时页底部显示「今日 x/y」，统计页有最近 7 天的达成圆点。
+Pressing Reset or leaving a running session asks for confirmation; confirm and it's logged as an interruption — it adds nothing to the task's count, but it does count toward the interruptions figure in your stats. Stats switches between Today and This Week: total focus time, completed pomodoros, interruptions, a bar chart by hour or by day, and a per-task ranking by time. Days are grouped by the calendar day in your own time zone, so an evening session never lands on the day before. You can also set a daily goal: "Today x/y" sits under the timer, and the last seven days show as dots.
 
-## 不用账号，也不联网
+## No account, no network
 
-没有注册、没有登录，打开就是计时页。任务、专注记录、统计和所有设置都只写在这台设备的本地存储里，App 不发起任何网络请求，也不收集你的任何数据。代价是它不做跨设备同步：换一台设备，或者删除 App，这些记录不会跟着走。
+There's no sign-up and no login; you open it and you're on the timer. Tasks, session records, stats and every setting are written only to local storage on this device. The app makes no network requests and collects nothing about you. The trade-off is that there is no sync across devices: switch phones or delete the app, and these records don't come with you.
