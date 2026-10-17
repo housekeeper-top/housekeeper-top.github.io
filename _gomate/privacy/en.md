@@ -2,71 +2,61 @@
 title: Privacy Policy
 hidden: true
 ---
-**Privacy Policy**
 
-This privacy policy applies to the 弈友 app (hereby referred to as "Application") for mobile devices that was created by Jane R. (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Last updated: with GoMate: Go AI & Game Review 1.0.5
 
-**Information Collection and Use**
+This Privacy Policy explains how GoMate: Go AI & Game Review (the "App") handles your information. The App is provided as is.
 
-The Application collects information when you download and use it. This information may include information such as
+## Summary
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The App has no accounts, contains no analytics, advertising, or tracking components, and communicates with no server run by the developer (its communication with Apple's services is described below). Everything you create in the App — the data you enter, your usage records, and your preferences — stays on your own device.
 
-The Application does not gather precise information about the location of your mobile device.
+## What We Collect
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+**Nothing.**
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+The developer operates no server for the App, receives no data from it, and cannot access, read, or recover any of your content. This matches the App Privacy section on the App's App Store product page.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## What the App Accesses
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to 976368957@qq.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The App requests no system permissions and does not access your photos, camera, microphone, location, contacts, calendar, health, or motion data.
 
-**Third Party Access**
+## Communication with Apple
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+When you open "Rate this app", the App asks Apple's App Store service for the App's store page address so it can open the rating page. The request contains no personal information.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+When you buy or restore a purchase, the App communicates with the App Store through Apple's StoreKit to complete the transaction; Apple handles the transaction and the developer never receives your payment details.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Beyond the above, the App communicates with no server of Apple's or anyone else's.
 
-**Opt-Out Rights**
+## Third Parties
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+The App contains no advertising, analytics, crash-reporting, or tracking SDKs, and uses no third-party backend service. There is therefore no sharing of your information with third parties.
 
-**Data Retention Policy**
+## Data Retention and Deletion
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at 976368957@qq.com and they will respond in a reasonable time.
+Your data lives on your device and is under your control. You can delete individual entries inside the App, and deleting the App removes everything it stored. Because the developer stores nothing, there is no server-side data to request or to have erased.
 
-**Children**
+## Your Rights
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+Applicable data protection laws (such as the GDPR and the CCPA) give you the right to access, correct, export, and delete your personal data. Because the App neither collects nor transmits any data, your information remains entirely in your hands and these rights are exercised directly on your device.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (976368957@qq.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+## Children
 
-**Security**
+The App is not directed to children under 13, and the developer does not knowingly collect any information from children. Because the App collects no data, no such collection can occur.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Security
 
-**Changes**
+Since no data is collected or transmitted, protecting your information rests on the security of your device. We recommend enabling a passcode, Face ID, or Touch ID, and keeping your system up to date.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+## Changes to This Policy
 
-This privacy policy is effective as of 2026-02-08
+This Privacy Policy may be revised as the App is updated. Any change will be posted on this page and the version marker at the top will be updated. Continued use of the App means you accept the revised policy.
 
-**Your Consent**
+## Your Consent
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+By using the App you consent to the handling of information described in this Privacy Policy.
 
-**Contact Us**
+## Contact
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at 976368957@qq.com.
-
-* * *
+If you have questions about this Privacy Policy or about how the App handles your data, contact us at 976368957@qq.com.

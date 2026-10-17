@@ -2,36 +2,53 @@
 title: User Terms
 hidden: true
 ---
-**Terms & Conditions**  
 
-These terms and conditions apply to the 弈友 app (hereby referred to as "Application") for mobile devices that was created by Jane R. (hereby referred to as "Service Provider") as a Free service.
+Last updated: with GoMate: Go AI & Game Review 1.0.5
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
+## Acceptance
 
-Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+By downloading, installing, or using GoMate: Go AI & Game Review (the "App") you confirm that you have read, understood, and agree to these User Terms. If you do not agree with any part of them, do not use the App.
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+## License Grant
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+Subject to your compliance with these Terms, we grant you a personal, non-exclusive, non-transferable, non-sublicensable license to install and use the App on Apple devices that you own or control, for personal, non-commercial purposes. The App is licensed to you, not sold.
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+## Restrictions
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+You may not: reverse engineer, decompile, disassemble, or attempt to derive the source code of the App; copy, modify, rent, lease, lend, sell, redistribute, or create derivative works from it; remove or alter any copyright, trademark, or proprietary notice; use the App for any unlawful purpose or to infringe the rights of others; or interfere with the App's normal operation.
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+## Intellectual Property
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+The App and all of its contents — including its code, interface design, icons, text, and trademarks — remain the property of the developer and are protected by copyright and other laws. All rights not expressly granted to you are reserved.
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+## Your Content
 
-**Changes to These Terms and Conditions**
+Content you create or enter in the App belongs to you. You are responsible for it and for keeping your own backups. The App is not liable for the loss or corruption of your content, whether caused by device failure, a system update, deletion of the App, or anything else.
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+## Disclaimer
 
-These terms and conditions are effective as of 2026-02-08
+The App is provided "as is" and "as available", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the App will be uninterrupted or error-free, or that its results will be accurate or reliable. The App does not constitute professional advice of any kind, including medical, health, legal, or financial advice.
 
-**Contact Us**
+## Limitation of Liability
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at 976368957@qq.com.
+To the maximum extent permitted by applicable law, and regardless of the legal theory involved, we are not liable for any indirect, incidental, special, punitive, or consequential damages arising from your use of or inability to use the App, including loss of data, loss of revenue, or business interruption.
 
-* * *
+## Termination
+
+You may terminate these Terms at any time by deleting the App. The license granted here terminates automatically if you breach any of these Terms, in which case you must stop using and delete the App.
+
+## Relationship with Apple
+
+These Terms are between you and the developer only, not with Apple, and Apple is not a party to them. Apple has no obligation to furnish any maintenance or support services for the App. If the App fails to conform to any applicable warranty, you may notify Apple, which will refund the purchase price, if any; to the maximum extent permitted by law, Apple has no other warranty obligation whatsoever with respect to the App. Any claims relating to the App — including product liability, regulatory compliance, consumer protection, and third-party intellectual property infringement claims — are the developer's responsibility, not Apple's. Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them as such.
+
+## Governing Law
+
+These Terms are governed by the laws of the jurisdiction in which you reside, without affecting any mandatory consumer rights that law grants you.
+
+## Changes to These Terms
+
+These Terms may be revised as the App is updated. Revised terms will be posted on this page and the version marker at the top will be updated. Continued use of the App means you accept them.
+
+## Contact
+
+If you have questions about these Terms, contact us at 976368957@qq.com.
