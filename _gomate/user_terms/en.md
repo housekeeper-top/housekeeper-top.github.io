@@ -3,11 +3,11 @@ title: User Terms
 hidden: true
 ---
 
-Last updated: with GoMate: Go AI & Game Review 1.0.5
+Last updated: with GoMate: Go AI Coach & Review 1.0.5
 
 ## Acceptance
 
-By downloading, installing, or using GoMate: Go AI & Game Review (the "App") you confirm that you have read, understood, and agree to these User Terms. If you do not agree with any part of them, do not use the App.
+By downloading, installing, or using GoMate: Go AI Coach & Review (the "App") you confirm that you have read, understood, and agree to these User Terms. If you do not agree with any part of them, do not use the App.
 
 ## License Grant
 
