@@ -1,32 +1,36 @@
 ---
-title: GoMate: Go AI Coach & Review
+title: GoMate: Go AI, Review & Play
 layout: post
 ---
 
-# GoMate: Go AI Coach & Review
+# GoMate: Go AI, Review & Play
 
-Most Go apps hand a beginner an opponent that is either hopelessly strong or too weak to learn from. GoMate: Go AI Coach & Review gives you an opponent that fits your level, then lets you go back through the game to see where it was decided. Everything runs on your phone, with no account and no connection.
+Play Go against an AI that fits your level, then go back through the game to see where it turned. It all runs on your iPhone or iPad, with no account and no sign-in.
 
 ## An opponent that doesn't flatten you
 
-The Beginner Coach level plays at the lowest strength, but it doesn't simply play badly. On each move it picks the one that keeps the position closest to even. You get a real game with room to practice, not a loss in twenty moves or a win with nothing learned.
+Most Go apps hand a beginner an opponent that is either far too strong or so weak the game means nothing. GoMate: Go AI, Review & Play has 16 opponent levels, from a beginner sparring partner up through amateur and professional ranks to the strongest AI settings, so you can start where you are and move up.
 
-When you're ready for more, the opponent list goes up in steps from beginner levels to professional-level play, ending with Super AI and Max AI. You can also set handicap stones and komi before the game starts.
+The beginner sparring level is the gentlest one. Its playing strength is the lowest in the app, but on each turn it picks the move that keeps the position closest to even. You get a real game with room to practice, rather than a rout or a walkover. You can also set handicap stones and komi before you start, and take White if you prefer.
 
-## Help only when you ask for it
+## Help when you want it, quiet when you don't
 
-By default you get a clean board. Turn on the coach and you'll see a win-rate bar, suggested points, and a short hint. Where a suggested move matches a known shape, it's labeled with that term. If the app can't recognize the shape, it only marks the point and doesn't invent a name.
+A game starts as a clean board. If you turn on the coach, you see a win-rate bar, suggested points on the board, and short hints. When a suggested point matches a recognizable shape, it is labeled with the shape's name; when it doesn't, you only get a circle, with no invented label. Turn the coach off and all of it disappears. You can also undo your last move, look at the territory so far, pass, or end the game and see the score counted either by area or by territory.
 
-You can also undo a move, pass, show the territory, or end the game and get the score, counted either by area (China / AGA / Taiwan-style) or by territory (Japan / Korea-style).
+If you leave in the middle of a game, it is kept, and you can pick it up from the start screen.
 
-## Go back through the game
+## Go back through the game afterward
 
-Finish a game, save it, and open it in the review screen. Step forward and back one move at a time, drag through the whole game, and read the win-rate curve to find the moves where the game turned. Good moves and questionable moves are marked on the board and on the curve. You can show territory and switch between Black's and White's view.
+Save a finished game and open it later in review. Step forward and back one move at a time or drag along the slider, and watch a win-rate curve across the whole game. Good moves are marked in green and questionable ones in red, so you can find the turning points without replaying everything from the start. You can show territory for either Black's or White's point of view.
 
-Games from elsewhere work too. Import an SGF file and the AI analyzes it with a progress indicator. If the file has problems, such as a move on an occupied point, the app lists them and asks before importing what it can read.
+## Review games from somewhere else
 
-## Local only, and what's paid
+You can import an SGF file and have the AI analyze it, with a progress indicator while it works. If the file has problems, such as a move on an occupied point, the app lists them and lets you decide whether to import the rest. Saved games can be renamed or deleted from the list.
 
-Your games and settings stay on your device. GoMate: Go AI Coach & Review has no accounts, no ads, and no network connection for its game features, so there is nothing to collect or share. Sound and vibration can each be switched off in Settings.
+## Your games stay on your device
 
-Everything is free except one thing: starting new games against the Beginner Coach level. You can unlock it with a one-time purchase, or with a yearly subscription that renews automatically and can be cancelled any time in your Apple ID subscription settings. Prices are shown in the app. If you haven't unlocked it, you can still continue an unfinished Beginner Coach game and review any game you've already saved.
+The AI engine runs on your device. There is no account, and your games and settings are kept on the device itself. Sound and vibration can each be switched off in Settings.
+
+## What is free
+
+Fifteen of the sixteen opponent levels, handicap and komi, the coach, saved games, SGF import and analysis, and review are all free, with no ads. The beginner sparring level is the one paid item. You can unlock it with a one-time purchase or an auto-renewing yearly plan, and prices are shown in the app by the App Store. Games already played at that level stay available to review and finish even if you haven't unlocked it.

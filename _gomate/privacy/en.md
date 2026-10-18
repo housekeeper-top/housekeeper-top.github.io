@@ -3,9 +3,9 @@ title: Privacy Policy
 hidden: true
 ---
 
-Last updated: with GoMate: Go AI Coach & Review 1.0.5
+Last updated: with GoMate: Go AI, Review & Play 1.0.5
 
-This Privacy Policy explains how GoMate: Go AI Coach & Review (the "App") handles your information. The App is provided as is.
+This Privacy Policy explains how GoMate: Go AI, Review & Play (the "App") handles your information. The App is provided as is.
 
 ## Summary
 
