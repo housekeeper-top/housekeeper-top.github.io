@@ -90,6 +90,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     hidden_show: true
+  stairclimb:
+    output: true
+    permalink: /:collection/:path/
+    hidden_show: true
 
 ordered_collections:
   # - posts
@@ -102,6 +106,7 @@ ordered_collections:
   - hackercamera
   - contact
   - focustimer
+  - stairclimb
 
 page_width: 800px
 
