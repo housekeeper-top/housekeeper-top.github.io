@@ -94,6 +94,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     hidden_show: true
+  whocare:
+    output: true
+    permalink: /:collection/:path/
+    hidden_show: true
 
 ordered_collections:
   # - posts
@@ -107,6 +111,7 @@ ordered_collections:
   - contact
   - focustimer
   - stairclimb
+  - whocare
 
 page_width: 800px
 
